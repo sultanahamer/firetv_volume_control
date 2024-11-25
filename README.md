@@ -1,8 +1,6 @@
 # Firetv volume control
 
-In POC(Proof of concept) state - using it in my current fire tv lite, feel free to try it out
-
-This is a second draft, first draft was without UI
+Using it in my current fire tv lite since bought it in 2023. Feel free to try it out
 
 ## Usage:
 
